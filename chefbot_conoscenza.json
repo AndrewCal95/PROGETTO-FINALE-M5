@@ -1,0 +1,192 @@
+{
+  "apple_pie": {
+    "ingredienti": [
+      "mele",
+      "farina",
+      "burro",
+      "zucchero",
+      "cannella"
+    ],
+    "porzione": "150 g",
+    "calorie_stimate_kcal": 350,
+    "descrizione": "Torta dolce alle mele, speziata con cannella e cotta al forno.",
+    "profilo_semantico": "Dessert dolce da forno, fruttato, friabile e speziato alla cannella."
+  },
+  "baklava": {
+    "ingredienti": [
+      "pasta fillo",
+      "noci",
+      "pistacchi",
+      "miele",
+      "burro"
+    ],
+    "porzione": "90 g",
+    "calorie_stimate_kcal": 390,
+    "descrizione": "Dolce croccante e molto dolce, con frutta secca e sciroppo al miele.",
+    "profilo_semantico": "Dolce orientale molto zuccherino, croccante, ricco di miele e frutta secca."
+  },
+  "caesar_salad": {
+    "ingredienti": [
+      "lattuga",
+      "crostini",
+      "parmigiano",
+      "salsa Caesar"
+    ],
+    "porzione": "300 g",
+    "calorie_stimate_kcal": 480,
+    "descrizione": "Insalata fresca con lattuga croccante, formaggio e condimento cremoso.",
+    "profilo_semantico": "Insalata fresca e croccante, servita fredda, con salsa cremosa e formaggio."
+  },
+  "cheesecake": {
+    "ingredienti": [
+      "formaggio cremoso",
+      "biscotti",
+      "burro",
+      "zucchero"
+    ],
+    "porzione": "130 g",
+    "calorie_stimate_kcal": 420,
+    "descrizione": "Dessert dolce e cremoso a base di formaggio e biscotti.",
+    "profilo_semantico": "Dessert dolce, morbido, cremoso e delicato, spesso servito freddo."
+  },
+  "chicken_curry": {
+    "ingredienti": [
+      "pollo",
+      "curry",
+      "cipolla",
+      "pomodoro",
+      "olio"
+    ],
+    "porzione": "300 g",
+    "calorie_stimate_kcal": 460,
+    "descrizione": "Piatto caldo e speziato a base di pollo e salsa aromatica.",
+    "profilo_semantico": "Piatto caldo di pollo, ricco di spezie, aromatico, intenso e saporito."
+  },
+  "chocolate_cake": {
+    "ingredienti": [
+      "cioccolato",
+      "farina",
+      "uova",
+      "burro",
+      "zucchero"
+    ],
+    "porzione": "130 g",
+    "calorie_stimate_kcal": 480,
+    "descrizione": "Torta ricca e golosa al cioccolato, ideale come dessert.",
+    "profilo_semantico": "Dessert al cioccolato, dolce, ricco, soffice e goloso."
+  },
+  "churros": {
+    "ingredienti": [
+      "farina",
+      "acqua",
+      "olio",
+      "zucchero",
+      "cannella"
+    ],
+    "porzione": "100 g",
+    "calorie_stimate_kcal": 400,
+    "descrizione": "Dolce fritto croccante, spesso servito con zucchero o cioccolato.",
+    "profilo_semantico": "Dolce fritto, croccante, zuccherino, spesso servito caldo con cioccolato."
+  },
+  "club_sandwich": {
+    "ingredienti": [
+      "pane",
+      "pollo",
+      "bacon",
+      "lattuga",
+      "pomodoro",
+      "maionese"
+    ],
+    "porzione": "250 g",
+    "calorie_stimate_kcal": 520,
+    "descrizione": "Sandwich salato a più strati con carne, verdure e salsa.",
+    "profilo_semantico": "Panino salato, sostanzioso e farcito, adatto a un pranzo veloce."
+  },
+  "french_fries": {
+    "ingredienti": [
+      "patate",
+      "olio",
+      "sale"
+    ],
+    "porzione": "150 g",
+    "calorie_stimate_kcal": 470,
+    "descrizione": "Patatine fritte croccanti e salate, servite come snack o contorno.",
+    "profilo_semantico": "Contorno di patate fritte, caldo, salato, croccante e sfizioso."
+  },
+  "greek_salad": {
+    "ingredienti": [
+      "pomodori",
+      "cetrioli",
+      "feta",
+      "olive",
+      "olio di oliva"
+    ],
+    "porzione": "300 g",
+    "calorie_stimate_kcal": 350,
+    "descrizione": "Insalata mediterranea fresca con verdure, olive e formaggio feta.",
+    "profilo_semantico": "Insalata mediterranea fredda, fresca, leggera, estiva e ricca di verdure."
+  },
+  "hamburger": {
+    "ingredienti": [
+      "pane",
+      "carne bovina",
+      "lattuga",
+      "pomodoro",
+      "salse"
+    ],
+    "porzione": "200 g",
+    "calorie_stimate_kcal": 500,
+    "descrizione": "Panino sostanzioso con carne alla griglia e verdure.",
+    "profilo_semantico": "Panino caldo con carne, salato, sostanzioso e ricco di sapore."
+  },
+  "ice_cream": {
+    "ingredienti": [
+      "latte",
+      "panna",
+      "zucchero",
+      "aromi"
+    ],
+    "porzione": "120 g",
+    "calorie_stimate_kcal": 260,
+    "descrizione": "Dessert freddo, dolce e cremoso, disponibile in diversi gusti.",
+    "profilo_semantico": "Dessert freddo, dolce, cremoso, gelato e rinfrescante."
+  },
+  "pizza": {
+    "ingredienti": [
+      "farina",
+      "pomodoro",
+      "mozzarella",
+      "olio",
+      "basilico"
+    ],
+    "porzione": "300 g",
+    "calorie_stimate_kcal": 800,
+    "descrizione": "Piatto italiano al forno con impasto lievitato, pomodoro e formaggio.",
+    "profilo_semantico": "Piatto italiano da forno, caldo, salato, con pomodoro e formaggio."
+  },
+  "ramen": {
+    "ingredienti": [
+      "noodles",
+      "brodo",
+      "carne",
+      "uova",
+      "verdure"
+    ],
+    "porzione": "500 g",
+    "calorie_stimate_kcal": 550,
+    "descrizione": "Zuppa giapponese calda con noodles, brodo aromatico e condimenti.",
+    "profilo_semantico": "Zuppa giapponese calda, con brodo aromatico, noodles e ingredienti saporiti."
+  },
+  "sushi": {
+    "ingredienti": [
+      "riso",
+      "pesce",
+      "alga nori",
+      "aceto di riso"
+    ],
+    "porzione": "200 g",
+    "calorie_stimate_kcal": 320,
+    "descrizione": "Piatto giapponese a base di riso e pesce, spesso fresco e delicato.",
+    "profilo_semantico": "Piatto giapponese fresco e delicato, con riso e pesce, servito freddo."
+  }
+}
